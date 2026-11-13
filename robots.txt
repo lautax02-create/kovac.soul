@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kovacsoul.netlify.app/sitemap.xml
